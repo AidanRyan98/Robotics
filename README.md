@@ -1,2 +1,2 @@
 # Robotics
-Code for the first yer project in Maynooth
+Code for the first year project in Maynooth
